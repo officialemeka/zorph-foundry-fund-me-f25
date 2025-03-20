@@ -46,12 +46,6 @@ cd foundry-fund-me-cu
 make
 ```
 
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-fund-me-cu)
-
 # Usage
 
 ## Deploy
@@ -211,10 +205,4 @@ To run code formatting:
 ```
 forge fmt
 ```
-
-# Additional Info:
-Some users were having a confusion that whether Chainlink-brownie-contracts is an official Chainlink repository or not. Here is the info.
-Chainlink-brownie-contracts is an official repo. The repository is owned and maintained by the chainlink team for this very purpose, and gets releases from the proper chainlink release process. You can see it's still the `smartcontractkit` org as well.
-
-https://github.com/smartcontractkit/chainlink-brownie-contracts
 
